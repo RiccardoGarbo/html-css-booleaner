@@ -45,3 +45,11 @@ main{
     display: block;
     font-size: small;
 }
+.paragraph{
+    margin-top: 20px;
+}
+.list{
+    margin-top: 20px;
+    padding-left: 15px;
+
+}
