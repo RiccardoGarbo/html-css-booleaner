@@ -1,0 +1,22 @@
+            /*Utilità*/
+ *{ max-width: 1080px;
+    margin: 0 auto;
+    }
+
+            /*Header*/
+.logo{
+    width: 150px;
+    height: 150px; 
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translate(0,-50%);     
+}
+
+header{
+    background-color: rgb(86, 141, 243);
+    background-image: url(img/pattern.png);
+    background-size: contain;
+    height: 80px;
+    position: relative;    
+}
