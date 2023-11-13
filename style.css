@@ -37,4 +37,11 @@ main{
     display: block;
     margin-top: 5px;
     font-size: small
+}                              /*Photo*/
+.photo{
+    margin-top: 25px;
+}
+.phototext{
+    display: block;
+    font-size: small;
 }
