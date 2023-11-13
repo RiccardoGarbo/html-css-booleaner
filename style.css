@@ -58,6 +58,7 @@ table{ table-layout: fixed;
         max-width:max-content;
         margin-left: 0;
         border-collapse: collapse;
+        margin-top: 20px;
  }
 thead{
     background-color: rgb(93, 169, 241);
@@ -70,4 +71,47 @@ thead{
 .testo-riga{
     width: 200px;
 }
+footer{                         /*footer e immagini finali*/
+    margin-top: 20px;
+}
+h3{
+    margin: 20px;
+    color: gray;
+    margin-left: 0 ;
 
+}
+.monitor{
+    background-image:url(img/monitor.jpg);
+    width: 250px;
+    height: 200px;
+    margin-left: 0;
+    position: relative;
+    background-position: center;
+
+}
+.grafico{
+    background-image: url(img/graph.jpg);
+    width: 250px;
+    height: 150px;
+    margin-top: 10px;
+    margin-left: 0;
+    position: relative;
+    background-position:center;
+}
+.monitor-text{
+    color: white;
+    font-size:large;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.grafico-text{
+    color: white;
+    font-size: large;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+
+    
+    
+}
