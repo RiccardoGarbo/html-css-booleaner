@@ -19,4 +19,22 @@ header{
     background-size: contain;
     height: 80px; 
     position: relative;    
+}          /* Main */
+main{
+    margin-top: 30px;
+}
+#booleaner {
+    color: rgb(0, 132, 255) 
+
+    }
+.author {
+    margin-top: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    color: gray;
+    }
+#data {
+    display: block;
+    margin-top: 5px;
+    font-size: small
 }
